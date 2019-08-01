@@ -7,6 +7,9 @@ class Greeter
   def salute
     puts "Hello #{@name}!"
   end
+  
+  def high_five
+    puts "This looks a lot like ruby"
 end
 
 g = Greeter.new("world")
