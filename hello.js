@@ -9,4 +9,8 @@ class MyClass {
   mungeData(data) {
     return this.myField + data;
   }
+
+  mungeMoreData(data) {
+    return this.mungeData(data) * data;
+  }
 }
