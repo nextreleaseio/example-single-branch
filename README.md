@@ -12,3 +12,6 @@ where all of the edits from the contributors is staged. Forks,
 branches, and direct commits all funnel into this primary branch 
 and then the maintainers determine when to cut a new release and 
 push it out to their end-users. 
+
+
+More Information: [NextRelease.io|https://www.nextrelease.io]
