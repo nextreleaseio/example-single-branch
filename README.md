@@ -14,4 +14,4 @@ and then the maintainers determine when to cut a new release and
 push it out to their end-users. 
 
 
-More Information: [NextRelease.io|https://www.nextrelease.io]
+More Information: [NextRelease.io](https://www.nextrelease.io)
