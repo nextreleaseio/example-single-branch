@@ -27,3 +27,5 @@ Automate Your Release Notes in 3-Clicks @ [NextRelease.io](https://www.nextrelea
 > - Responsive Styling Fixes [#154](https://github.com/nextreleaseio/frontend/pull/154) ( [donaldwasserman](https://github.com/donaldwasserman) )
 > - Changed filtering to modified date [#152](https://github.com/nextreleaseio/frontend/pull/152) ( [donaldwasserman](https://github.com/donaldwasserman) )
 
+# Other Examples
+* [Automatic Git Tagging & GitHub Release Creation](https://github.com/nextreleaseio/example-single-branch/releases)
