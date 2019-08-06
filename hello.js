@@ -13,4 +13,12 @@ class MyClass {
   mungeMoreData(data) {
     return this.mungeData(data) * data;
   }
+
+  aLongLoop(){
+    let i = Math.floor(Math.rand() * 10);
+
+    while (i < 7) {
+      console.log('This is fun');
+      i++;
+    }
 }
