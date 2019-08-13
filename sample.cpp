@@ -14,3 +14,7 @@ int other ()
 {
   cout << "I bet this won't even compile";
 }
+
+int other_two() {
+  cout << "more text out"
+}
