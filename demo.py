@@ -11,3 +11,6 @@ class MyCustomClass(object):
 
   def my_method(self):
       return self.arg + 1
+
+  def more_python(self):
+      return 1 + 1 + 2
