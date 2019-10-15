@@ -14,3 +14,11 @@ class MyCustomClass(object):
 
   def more_python(self):
       return 1 + 1 + 2
+
+
+  def generator_example(n):
+      run = 0
+      while run < 1000:
+          run = run + 1
+          yield run
+
