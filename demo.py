@@ -22,3 +22,6 @@ class MyCustomClass(object):
           run = run + 1
           yield run
 
+  @classmethod
+  def get_my_demos_done():
+      return False
