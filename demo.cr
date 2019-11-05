@@ -2,6 +2,7 @@
 
 class Greeter
   def initialize(@name : String )
+    @my_thing = @name
   end
 
   def salute
