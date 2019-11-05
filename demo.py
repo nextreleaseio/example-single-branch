@@ -18,6 +18,9 @@ class MyCustomClass(object):
   def new_method():
       return self.arg * arg
 
+  def asdf_asdf():
+      return "asdf"
+
   def generator_example(n):
       run = 0
       while run < 1000:
