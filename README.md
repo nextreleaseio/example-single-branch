@@ -13,11 +13,6 @@ branches, and direct commits all funnel into this primary branch
 and then the maintainers determine when to cut a new release and 
 push it out to their end-users. 
 
-sdfasdf
-asdfasdfsad
-asdfasdfsadfasd
-asdfasdfsadfsdf
-
 Automate Your Release Notes in 3-Clicks @ [NextRelease.io](https://www.nextrelease.io)
 
 
