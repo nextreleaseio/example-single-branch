@@ -15,6 +15,8 @@ class MyCustomClass(object):
   def more_python(self):
       return 1 + 1 + 2
 
+  def new_method():
+      return self.arg * arg
 
   def generator_example(n):
       run = 0
