@@ -26,4 +26,5 @@ class MyClass {
 
 function allTheThings () {
   let thing = new MyClass();
+  thing.aLongLoop();
 }
