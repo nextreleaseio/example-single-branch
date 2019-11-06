@@ -22,3 +22,8 @@ class MyClass {
       i++;
     }
 }
+
+
+function allTheThings () {
+  let thing = new MyClass();
+}
