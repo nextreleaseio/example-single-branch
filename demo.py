@@ -30,3 +30,7 @@ class MyCustomClass(object):
   @classmethod
   def get_my_demos_done():
       return False
+
+  @classmethod
+  def more_things():
+      return True
