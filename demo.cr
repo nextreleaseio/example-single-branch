@@ -11,6 +11,7 @@ class Greeter
   
   def high_five
     puts "This looks a lot like ruby"
+  end
 end
 
 g = Greeter.new("world")
