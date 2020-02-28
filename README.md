@@ -1,4 +1,6 @@
 # Single Branch Environment Example #
+
+
 ## Overview ##
 Making all pull requests against a single “master” branch is 
 an excellent strategy to quickly get up and running while 
