@@ -34,3 +34,7 @@ class MyCustomClass(object):
   @classmethod
   def more_things():
       return True
+
+  @classmethod
+  def asdfasdfdsa():
+      return "asdf"
