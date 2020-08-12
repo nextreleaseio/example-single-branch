@@ -15,11 +15,16 @@ class MyCustomClass(object):
   def more_python(self):
       return 1 + 1 + 2
 
+<<<<<<< HEAD
   def new_method():
       return self.arg * arg
 
   def asdf_asdf():
       return "asdf"
+=======
+  def even_more_python(self):
+      return 1 + 3 + 4
+>>>>>>> Made critical changes
 
   def generator_example(n):
       run = 0
