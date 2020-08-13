@@ -15,17 +15,15 @@ class MyCustomClass(object):
   def more_python(self):
       return 1 + 1 + 2
 
-<<<<<<< HEAD
   def new_method():
       return self.arg * arg
 
   def asdf_asdf():
       return "asdf"
-=======
   def even_more_python(self):
       return 1 + 3 + 4
->>>>>>> Made critical changes
 
+  @custom_generator
   def generator_example(n):
       run = 0
       while run < 1000:
@@ -43,3 +41,8 @@ class MyCustomClass(object):
   @classmethod
   def asdfasdfdsa():
       return "asdf"
+
+
+def custom_generator(func):
+    return func()
+
