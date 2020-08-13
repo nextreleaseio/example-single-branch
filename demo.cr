@@ -3,6 +3,7 @@
 class Greeter
   def initialize(@name : String )
     @my_thing = @name
+    puts "asdfasdfads"
   end
 
   def salute
